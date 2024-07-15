@@ -79,5 +79,5 @@ Mais informações no Índice "Contatos", logo a baixo. 🥰
 G-mail : guilherme277748@gmail.com <br>
 Instagram: <a href=https://www.instagram.com/dev.guilhermengk>@dev.guilhermengk</a><br>
 GitHub: <a href=https://github.com/guilhermengk>@guilhermengk</a> <br>
-Linkedin: <a href=https://www.linkedin.com/in/guilherme-barbos-71a9b92bb/>Guilherme Barbosa</a>
+Linkedin: <a href=https://www.linkedin.com/in/guilhermengk>Guilherme Barbosa</a>
 
